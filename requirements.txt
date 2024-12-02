@@ -1,0 +1,11 @@
+subprocess
+csv
+requests
+json
+pandas
+python-dotenv
+os
+geopandas
+shapely
+random
+numpy
