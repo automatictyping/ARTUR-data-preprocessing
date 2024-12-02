@@ -43,9 +43,6 @@ This repository contains Python scripts for data processing in the ARTUR project
      ```
    - On Windows, download and install from the [OSGeo4W](https://trac.osgeo.org/osgeo4w/) installer.
 
-````bash
-python import_to_db.py
-
 ### Usage
 
 #### Calculate Population
@@ -53,7 +50,7 @@ python import_to_db.py
 ```bash
 cd calculate-population
 python3 population-overlay.py
-````
+```
 
 #### Generate Data
 
