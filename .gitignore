@@ -1,2 +1,4 @@
 *.geojson
 *.csv
+*.xlsx
+.env

@@ -3,7 +3,6 @@ import random
 from shapely.geometry import Point, Polygon
 import geopandas as gpd
 import numpy as np
-from faker import Faker
 
 # generate random points within the city's boundary
 def generate_random_point_in_polygon(polygon, num_points=10):
