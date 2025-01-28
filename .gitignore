@@ -1,4 +1,7 @@
 *.geojson
+*.json
 *.csv
 *.xlsx
+*.xls
 .env
+water-network
